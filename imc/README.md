@@ -1,0 +1,1 @@
+Função simples para calcular o IMC recebendo altura e peso.
